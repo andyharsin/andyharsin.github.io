@@ -97,7 +97,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "bio"
   location         : "Tucson, AZ"
-  email            :"andyharsin@gmail.com"
+  email            : "andyharsin@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
