@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Andy's Data Visualization Portfolio"
 title_separator          : "-"
-subtitle                 : "prototype"
+#subtitle                 : "prototype"
 name                     : "Andy Harsin"
-description              : "An amazing website."
+description              : "My data visualization projects"
 url                      : "https://andyharsin.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -28,7 +28,7 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 200
+words_per_minute         : 200v 
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
@@ -279,3 +279,11 @@ defaults:
       comments: # true
       share: true
       related: true
+
+# _pages
+- scope:
+    path: ""
+    type: pages
+values:
+    layout: single
+    author_profile: true
