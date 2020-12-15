@@ -9,3 +9,8 @@ Spaceshots per Year by Country
 
 
    ![test](/images/spaceshots.gif)
+
+```R
+smp <- c(1,2,3,4)
+smp
+```
