@@ -5,12 +5,11 @@ date: 2020-12-09 16:02:22 -0800
 categories: jekyll update
 ---
 
+
+
+
 Spaceshots per Year by Country
 
 
    ![test](/images/spaceshots.gif)
 
-```R
-smp <- c(1,2,3,4)
-smp
-```
