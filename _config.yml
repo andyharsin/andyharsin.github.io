@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Andy's Data Visualization Portfolio"
+title                    : "Charles Harsin Data Portfolio"
 title_separator          : "-"
 #subtitle                 : "prototype"
-name                     : "Andy Harsin"
-description              : "My data visualization projects"
+name                     : "Charles Harsin"
+description              : "Charles Harsin Data Portfolio"
 url                      : "https://andyharsin.github.io"
 baseurl                  : #"/andyharsin.github.io"
 repository               : "andyharsin/andyharsin.github.io"
@@ -93,11 +93,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Andy Harsin"
+  name             : "Charles Harsin"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "bio"
   location         : "Tucson, AZ"
-  email            : "andyharsin@gmail.com"
+  email            : "charlesharsin@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
