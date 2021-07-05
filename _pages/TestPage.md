@@ -1,5 +1,5 @@
 ---
 layout: page
 title: "Test Page"
-permalink: /URL-PATH/
+permalink: /https://andyharsin.github.io/Page//
 ---
