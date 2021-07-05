@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "US Terrorist Attacks 1980-2017"
+title: "US Terrorist Attacks 1980-2017 (Tableau, interactive)"
 date: 2020-12-09 16:02:22 -0800
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Political Wordclouds: 2020 US Presidential Election Speeches"
+title: "Political Wordclouds: 2020 US Presidential Election Speeches (R)"
 date: 2020-12-31 16:02:22 -0800
 ---
 

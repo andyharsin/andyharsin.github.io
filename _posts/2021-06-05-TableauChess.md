@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Top Rated Chess Players, World Champions, & Engines 1900-2018"
+title: "Top Rated Chess Players, World Champions, & Engines 1900-2018 (Tableau, interactive)"
 date: 2020-12-09 16:02:22 -0800
 ---
 
