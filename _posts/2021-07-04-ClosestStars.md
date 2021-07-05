@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "20 Closest Stars (d3)"
+title: "20 Closest Stars (d3, interactive)"
 date: 2020-12-31 16:02:22 -0800
 ---
 
