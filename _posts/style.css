@@ -1,0 +1,49 @@
+body {
+    background-color: darkslategray;
+    color: lightgray;
+    width: 640px;
+    font-family:Arial, Helvetica, sans-serif
+  }
+  
+  h1 {
+    color: white;
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 30px;
+  }
+
+  .chartArea {
+      background-color: blue;
+  }
+
+  g {
+    background-color: red;
+  }
+
+  circle {
+  fill: purple;
+}
+
+.xstyle {
+color: lightgray;
+}
+
+.bar {
+  fill: red;
+}
+
+h3 {
+color: lightgray;
+text-align: center;
+font-family: sans-serif;
+}
+
+.controls {
+  margin-left: 100px;
+}
+button {
+  background-color: dodgerblue;
+}
