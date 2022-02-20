@@ -21,9 +21,9 @@ title_separator          : "-"
 #subtitle                 : "prototype"
 #name                     : "Charles Harsin"
 description              : "Charles Harsin Data Portfolio"
-url                      : "https://andyharsin.github.io"
-baseurl                  : #"/andyharsin.github.io"
-repository               : "andyharsin/andyharsin.github.io"
+url                      : #C:\Users\Andy\Desktop\DT\andyharsin.github.io #""   #"https://andyharsin.github.io"
+baseurl                  : #C:\Users\Andy\Desktop\DT\andyharsin.github.io #""                                     #"/andyharsin.github.io"
+repository               : #"andyharsin/andyharsin.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -207,7 +207,7 @@ sass:
 
 
 # Outputting
-permalink: /:categories/:title/
+permalink: #/:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -301,4 +301,22 @@ defaults:
 collections:
   portfolio:
     output: true
-    permalink: /:collection/:path/
+    permalink: /portfolio/:path/
+    order:
+      - TableauUsedCars.md
+      - BrightestStars.md
+      - SpaceShotsAnimatedBarChart.md
+      - TableauChess.md
+      - TableauTerrorism.md
+      - Wordcloud.md
+
+
+
+
+
+
+
+
+
+
+

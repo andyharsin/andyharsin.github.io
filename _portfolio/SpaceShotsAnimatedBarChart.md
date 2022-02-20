@@ -1,14 +1,13 @@
 ---
-layout: collection
-title: "Bar Chart: Spaceshots per Year by Country(R, animated)"
-date: 2020-12-09 16:02:22 -0800
+url: "/portfolio/SpaceShotsAnimatedBarChart.md"
+layout: portfolio
+title: "Spaceshots per Year by Country"
+type: "R"
+subtype: "Animated"
+image: "/assets/images/spaceshots.PNG"
+description: "Space launches per year by country"
+date: 2022-01-03 16:02:22 -0800
 ---
 
-
-
-
-Spaceshots per Year by Country
-
-
-   ![test](/images/spaceshots.gif)
+   ![Spaceshots](\assets\images\spaceshots.gif)
 
