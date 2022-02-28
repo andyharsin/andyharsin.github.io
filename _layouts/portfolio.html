@@ -8,12 +8,12 @@
   Free for personal and commercial use under the MIT license
   https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
 -->
-<html lang="{{ site.locale | slice: 0,2 | default: "en" }}" class="no-js">
+<html lang= "{{ site.locale | slice: 0,2 | default: "en" }}">
   <head>
     {% include head.html %}
     {% include head/custom.html %}
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 
   </head>
@@ -31,12 +31,16 @@
         <div class="left">
         {{ viz.title }}
         {{ viz.content }}
-        {{ viz.type }}
-        {{ viz.subtype }}
+            <p class="typesub">
+              {{ viz.type }}
+              {{ viz.subtype }}
+            </p>
         </div>
-        <div class="right"> 
-        {{ viz.description }}
+
+        <div class="right">
+              {{ viz.description }}
         </div>
+
       </div>
       {% endfor %}
   </div>

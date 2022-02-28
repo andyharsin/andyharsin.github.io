@@ -5,7 +5,15 @@ title: "20 Brightest Extrasolar Stars as Seen from Earth"
 type: "d3"
 subtype: "Interactive"
 image: "/assets/images/BrightestStars.PNG"
-description: "A chart displaying distance from Earth, absolute magnitude, and apparent magnitude. Note that lower magnitude is brighter"
+description: "A bar chart displaying apparent magnitude,&nbsp absolute magnitude,&nbsp and distance from Earth of the 20 brightest extrasolar stars.&nbspThe absolute magnitude of the Sun is 4.83,&nbspabout the same as Alpha Centauri. 
+<br><br>
+App Mag:  &nbspApparent magnitude.  &nbspThe brightness as seen from Earth. 
+<br><br>
+Abs Mag: &nbspAbsolute Magnitude.  &nbspThe brightness from 10 parsecs (32.6 light-years). 
+<br><br>
+Distance LY:  &nbspThe distance from Earth in light-years. 
+<br><br>
+Note that lower magnitude is brighter."
 date: 2022-01-02 16:02:22 -0800
 ---
 
@@ -14,20 +22,21 @@ date: 2022-01-02 16:02:22 -0800
 <head>
 		<meta charset="UTF-8"/>
 		<meta name='viewport' path1tent='width=device-width,initial-scale=1.0'/>
-		<!-- <title>20 Closest Stars</title> -->
-    
-		<script src='https://d3js.org/d3.v6.min.js'></script>
-		<!--<script src='C:\AllThingsData\Projects\d3\Source\v6\d3.min.js'></script>-->
-	</head>
+		<script src='https://d3js.org/d3.v6.min.js'> </script>
+</head>
+	
+
+
+
   <body>
     <!-- Chart container -->
-    <div class='bar-chart-container'></div>
+    <div class='bar-chart-container'></div> 
 
   <!-- Controls -->
   <div class='controls'>
-      <button data-name='Apparent Magnitude'>Apparent Magnitude</button>
-      <button data-name='Absolute Magnitude'>Absolute Magnitude</button>
-      <button data-name='Distance Light Years'>Distance Light Years</button>
+      <button data-name='Apparent Magnitude'>App Mag</button>
+      <button data-name='Absolute Magnitude'>Abs Mag</button>
+      <button data-name='Distance Light Years'>Distance LY</button>
     </div>
      <!-- Javascript logic -->
      <script>
@@ -37,140 +46,140 @@ date: 2022-01-02 16:02:22 -0800
     "Astronomical Name": "Alpha Cygni",
     "Apparent Magnitude": 1.25,
     "Absolute Magnitude": -8.73,
- "Distance Light Years": 1467
+    "Distance Light Years": 1467
   },
  {
    "Name": "Rigel",
    "Astronomical Name": "Beta Orionis",
    "Apparent Magnitude": 0.18,
    "Absolute Magnitude": -6.69,
-"Distance Light Years": 773
+   "Distance Light Years": 773
  },
  {
    "Name": "Antares",
    "Astronomical Name": "Alpha Scorpii",
    "Apparent Magnitude": 1.06,
    "Absolute Magnitude": -5.28,
-"Distance Light Years": 604
+   "Distance Light Years": 604
  },
  {
    "Name": "Hadar",
    "Astronomical Name": "Beta Centauri",
    "Apparent Magnitude": 0.61,
    "Absolute Magnitude": -5.42,
-"Distance Light Years": 526
+   "Distance Light Years": 526
  },
  {
    "Name": "Betelgeuse",
    "Astronomical Name": "Alpha Orionis",
    "Apparent Magnitude": 0.45,
    "Absolute Magnitude": -5.14,
-"Distance Light Years": 522
+   "Distance Light Years": 522
  },
 {
    "Name": "Mimosa",
    "Astronomical Name": "Beta Crucis",
    "Apparent Magnitude": 1.25,
    "Absolute Magnitude": -3.92,
-"Distance Light Years": 352
+   "Distance Light Years": 352
  },
  {
    "Name": "Acrux",
    "Astronomical Name": "Alpha Crucis",
    "Apparent Magnitude": 0.77,
    "Absolute Magnitude": -4.19,
-"Distance Light Years": 321
+   "Distance Light Years": 321
  },
  {
    "Name": "Canopus",
    "Astronomical Name": "Alpha Carinae",
    "Apparent Magnitude": -0.62,
    "Absolute Magnitude": -5.53,
-"Distance Light Years": 313
+   "Distance Light Years": 313
  },
  {
    "Name": "Spica",
    "Astronomical Name": "Alpha Virginis",
    "Apparent Magnitude": 0.98,
    "Absolute Magnitude": -3.55,
-"Distance Light Years": 262
+   "Distance Light Years": 262
  },
  {
    "Name": "Achernar",
    "Astronomical Name": "Alpha Eridani",
    "Apparent Magnitude": 0.45,
    "Absolute Magnitude": -2.77,
-"Distance Light Years": 144
+   "Distance Light Years": 144
  },
  {
    "Name": "Aldebaran",
    "Astronomical Name": "Alpha Tauri",
    "Apparent Magnitude": 0.87,
    "Absolute Magnitude": -0.63,
-"Distance Light Years": 65
+   "Distance Light Years": 65
  },
  {
    "Name": "Capella",
    "Astronomical Name": "Alpha Aurigae",
    "Apparent Magnitude": 0.08,
    "Absolute Magnitude": -0.48,
-"Distance Light Years": 42
+   "Distance Light Years": 42
  },
  {
    "Name": "Arcturus",
    "Astronomical Name": "Alpha Bootis",
    "Apparent Magnitude": -0.05,
    "Absolute Magnitude": -0.31,
-"Distance Light Years": 37
+   "Distance Light Years": 37
  },
  {
    "Name": "Pollux",
    "Astronomical Name": "Beta Geminorum",
    "Apparent Magnitude": 1.16,
    "Absolute Magnitude": 1.09,
-"Distance Light Years": 34
+   "Distance Light Years": 34
  },
  {
    "Name": "Vega",
    "Astronomical Name": "Alpha Lyrae",
    "Apparent Magnitude": 0.03,
    "Absolute Magnitude": 0.58,
-"Distance Light Years": 25
+   "Distance Light Years": 25
  },
  {
    "Name": "Fomalhaut",
    "Astronomical Name": "Alpha Piscis Austrini",
    "Apparent Magnitude": 1.17,
    "Absolute Magnitude": 1.74,
-"Distance Light Years": 25
+   "Distance Light Years": 25
  },
  {
    "Name": "Altair",
    "Astronomical Name": "Alpha Aquilae",
    "Apparent Magnitude": 0.76,
    "Absolute Magnitude": 2.2,
-"Distance Light Years": 17
+   "Distance Light Years": 17
  },
  {
    "Name": "Procyon",
    "Astronomical Name": "Alpha Canis Minoris",
    "Apparent Magnitude": 0.4,
    "Absolute Magnitude": 2.68,
-"Distance Light Years": 11
+   "Distance Light Years": 11
  },
   {
    "Name": "Sirius",
    "Astronomical Name": "Alpha Canis Majoris",
    "Apparent Magnitude": -1.44,
    "Absolute Magnitude": 1.45,
-"Distance Light Years": 9
+   "Distance Light Years": 9
  },
  {
    "Name": "Alpha Centauri",
    "Astronomical Name": "Rigel Kentaurus",
    "Apparent Magnitude": -0.01,
    "Absolute Magnitude": 4.34,
-"Distance Light Years": 4
+   "Distance Light Years": 4
  }
  ]
 // Main function.
@@ -233,8 +242,8 @@ date: 2022-01-02 16:02:22 -0800
          //   .style('fill','lightgray' );
   }
   // Margin convention.
-  const margin = { top: 20, right: 20, bottom: 20, left: 20 };
-  const width = 450 - margin.right - margin.left;
+  const margin = { top: 20, right: 20, bottom: 20, left: 80 };
+  const width = 550 - margin.right - margin.left;
   const height = 400 - margin.top - margin.bottom;
   // Scales.
   const xScale = d3.scaleLinear().range([0, width]);
@@ -261,7 +270,7 @@ date: 2022-01-02 16:02:22 -0800
     .append('tspan')
     .attr('x', 0)
     .attr('dy', '1.5em')
-    .style('font-size', '0.8em')
+    .style('font-size', '.0em')
     .style('fill', 'lightgray')
    // .text('20 brightest extrasolar stars as seen from Earth');
   // Draw Bars.
