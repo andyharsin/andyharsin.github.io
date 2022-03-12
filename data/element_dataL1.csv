@@ -1,0 +1,120 @@
+ID,name,parent,group,symbol,number,awt
+0,root,,,,,
+1,Hydrogen,root,diatomic nonmetal,H,1,1.007
+2,Helium,root,noble gas,He,2,4.002
+3,Lithium,root,alkali metal,Li,3,6.941
+4,Beryllium,root,alkaline earth metal,Be,4,9.012
+5,Boron,root,metalloid,B,5,10.811
+6,Carbon,root,polyatomic nonmetal,C,6,12.011
+7,Nitrogen,root,diatomic nonmetal,N,7,14.007
+8,Oxygen,root,diatomic nonmetal,O,8,15.999
+9,Fluorine,root,diatomic nonmetal,F,9,18.998
+10,Neon,root,noble gas,Ne,10,20.18
+11,Sodium,root,alkali metal,Na,11,22.99
+12,Magnesium,root,alkaline earth metal,Mg,12,24.305
+13,Aluminum,root,post-transition metal,Al,13,26.982
+14,Silicon,root,metalloid,Si,14,28.086
+15,Phosphorus,root,polyatomic nonmetal,P,15,30.974
+16,Sulfur,root,polyatomic nonmetal,S,16,32.065
+17,Chlorine,root,diatomic nonmetal,Cl,17,35.453
+18,Argon,root,noble gas,Ar,18,39.948
+19,Potassium,root,alkali metal,K,19,39.098
+20,Calcium,root,alkaline earth metal,Ca,20,40.078
+21,Scandium,root,transition metal,Sc,21,44.956
+22,Titanium,root,transition metal,Ti,22,47.867
+23,Vanadium,root,transition metal,V,23,50.942
+24,Chromium,root,transition metal,Cr,24,51.996
+25,Manganese,root,transition metal,Mn,25,54.938
+26,Iron,root,transition metal,Fe,26,55.845
+27,Cobalt,root,transition metal,Co,27,58.933
+28,Nickel,root,transition metal,Ni,28,58.693
+29,Copper,root,transition metal,Cu,29,63.546
+30,Zinc,root,transition metal,Zn,30,65.38
+31,Gallium,root,post-transition metal,Ga,31,69.723
+32,Germanium,root,metalloid,Ge,32,72.64
+33,Arsenic,root,metalloid,As,33,74.922
+34,Selenium,root,polyatomic nonmetal,Se,34,78.96
+35,Bromine,root,diatomic nonmetal,Br,35,79.904
+36,Krypton,root,noble gas,Kr,36,83.798
+37,Rubidium,root,alkali metal,Rb,37,85.468
+38,Strontium,root,alkaline earth metal,Sr,38,87.62
+39,Yttrium,root,transition metal,Y,39,88.906
+40,Zirconium,root,transition metal,Zr,40,91.224
+41,Niobium,root,transition metal,Nb,41,92.906
+42,Molybdenum,root,transition metal,Mo,42,95.96
+43,Technetium,root,transition metal,Tc,43,98
+44,Ruthenium,root,transition metal,Ru,44,101.07
+45,Rhodium,root,transition metal,Rh,45,102.906
+46,Palladium,root,transition metal,Pd,46,106.42
+47,Silver,root,transition metal,Ag,47,107.868
+48,Cadmium,root,transition metal,Cd,48,112.411
+49,Indium,root,post-transition metal,In,49,114.818
+50,Tin,root,post-transition metal,Sn,50,118.71
+51,Antimony,root,metalloid,Sb,51,121.76
+52,Tellurium,root,metalloid,Te,52,127.6
+53,Iodine,root,diatomic nonmetal,I,53,126.904
+54,Xenon,root,noble gas,Xe,54,131.293
+55,Cesium,root,alkali metal,Cs,55,132.905
+56,Barium,root,alkaline earth metal,Ba,56,137.327
+57,Lanthanum,root,lanthanide,La,57,138.905
+58,Cerium,root,lanthanide,Ce,58,140.116
+59,Praseodymium,root,lanthanide,Pr,59,140.908
+60,Neodymium,root,lanthanide,Nd,60,144.242
+61,Promethium,root,lanthanide,Pm,61,145
+62,Samarium,root,lanthanide,Sm,62,150.36
+63,Europium,root,lanthanide,Eu,63,151.964
+64,Gadolinium,root,lanthanide,Gd,64,157.25
+65,Terbium,root,lanthanide,Tb,65,158.925
+66,Dysprosium,root,lanthanide,Dy,66,162.5
+67,Holmium,root,lanthanide,Ho,67,164.93
+68,Erbium,root,lanthanide,Er,68,167.259
+69,Thulium,root,lanthanide,Tm,69,168.934
+70,Ytterbium,root,lanthanide,Yb,70,173.054
+71,Lutetium,root,lanthanide,Lu,71,174.967
+72,Hafnium,root,transition metal,Hf,72,178.49
+73,Tantalum,root,transition metal,Ta,73,180.948
+74,Tungsten,root,transition metal,W,74,183.84
+75,Rhenium,root,transition metal,Re,75,186.207
+76,Osmium,root,transition metal,Os,76,190.23
+77,Iridium,root,transition metal,Ir,77,192.217
+78,Platinum,root,transition metal,Pt,78,195.084
+79,Gold,root,transition metal,Au,79,196.967
+80,Mercury,root,transition metal,Hg,80,200.59
+81,Thallium,root,post-transition metal,Tl,81,204.383
+82,Lead,root,post-transition metal,Pb,82,207.2
+83,Bismuth,root,post-transition metal,Bi,83,208.98
+84,Polonium,root,post-transition metal,Po,84,210
+85,Astatine,root,metalloid,At,85,210
+86,Radon,root,noble gas,Rn,86,222
+87,Francium,root,alkali metal,Fr,87,223
+88,Radium,root,alkaline earth metal,Ra,88,226
+89,Actinium,root,actinide,Ac,89,227
+90,Thorium,root,actinide,Th,90,232.038
+91,Protactinium,root,actinide,Pa,91,231.036
+92,Uranium,root,actinide,U,92,238.029
+93,Neptunium,root,actinide,Np,93,237
+94,Plutonium,root,actinide,Pu,94,244
+95,Americium,root,actinide,Am,95,243
+96,Curium,root,actinide,Cm,96,247
+97,Berkelium,root,actinide,Bk,97,247
+98,Californium,root,actinide,Cf,98,251
+99,Einsteinium,root,actinide,Es,99,252
+100,Fermium,root,actinide,Fm,100,257
+101,Mendelevium,root,actinide,Md,101,258
+102,Nobelium,root,actinide,No,102,259
+103,Lawrencium,root,actinide,Lr,103,262
+104,Rutherfordium ,root,transition metal,Rf,104,267
+105,Dubnium,root,transition metal,Db,105,268
+106,seaborgium  ,root,transition metal,Sg,106,269
+107,Bohrium,root,transition metal,Bh,107,270
+108,Hassium,root,transition metal,Hs,108,269
+109,Meitnerium ,root,transition metal,Mt,109,278
+110,Darmstadtium ,root,transition metal,Ds,110,281
+111,Roentgenium,root,transition metal,Rg,111,281
+112,Copernicium,root,transition metal,Cn,112,285
+113,Nihonium,root,post-transition metal,Nh,113,286
+114,Flerovium,root,post-transition metal,Fl,114,289
+115,Moscovium,root,post-transition metal,Mc,115,289
+116,Livermorium,root,post-transition metal,Lv,116,293
+117,Tennessine,root,diatomic nonmetal,Ts,117,294
+118,Oganesson,root,noble gas,Og,118,294
