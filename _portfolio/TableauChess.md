@@ -11,3 +11,4 @@ date: 2022-01-04 16:02:22 -0800
 
 
 [![Top Chess Players, World Champions, & Engines](\assets\images\Chess.png)](https://public.tableau.com/views/ChessTop10/ChessHumansEngines1900-present?:language=en-US&:display_count=n&:origin=viz_share_link)
+

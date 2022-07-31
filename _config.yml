@@ -303,20 +303,12 @@ collections:
     output: true
     permalink: /portfolio/:path/
     order:
+      - SampleSize.md
       - TableauUsedCars.md
+      - EaseDemo.md
       - BrightestStars.md
       - SpaceShotsAnimatedBarChart.md
+      - Elements.md
       - TableauChess.md
       - TableauTerrorism.md
       - Wordcloud.md
-
-
-
-
-
-
-
-
-
-
-
