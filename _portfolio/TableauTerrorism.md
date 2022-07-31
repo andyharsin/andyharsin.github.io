@@ -6,7 +6,7 @@ type: "Tableau"
 subtype: "Interactive"
 image: "/assets/images/Terrorism.PNG"
 description: "Terrorist attacks on US soil in an interactive Tableau visualization using maps and timelines. The image links to the live visualization on Tableau Public."
-date: 2022-01-05 16:02:22 -0800
+date: 2022-01-07 16:02:22 -0800
 ---
 
 

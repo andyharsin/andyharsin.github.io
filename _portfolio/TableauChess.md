@@ -6,7 +6,7 @@ type: "Tableau"
 subtype: "Interactive"
 image: "/assets/images/Chess.PNG"
 description: "A multi-chart Tableau interactive visualization of top chess players 1900-2018;&nbsp top players by decade;&nbspworld champions' tenure, ratings, and rankings;&nbspand a visual history of computer chess engine development including a strength comparison with contemporary human world champions.&nbspThe image links to the live visualization on Tableau Public."
-date: 2022-01-04 16:02:22 -0800
+date: 2022-01-07 16:02:22 -0800
 ---
 
 

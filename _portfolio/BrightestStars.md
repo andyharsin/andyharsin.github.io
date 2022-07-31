@@ -1,5 +1,5 @@
 ---
-url: "/site/portfolio/ClosestStars/index.html"
+url: "portfolio/BrightestStars.md"
 layout: portfolio
 title: "20 Brightest Extrasolar Stars as Seen from Earth"
 type: "d3"
@@ -14,7 +14,7 @@ Abs Mag: &nbspAbsolute Magnitude.  &nbspThe brightness from 10 parsecs (32.6 lig
 Distance LY:  &nbspThe distance from Earth in light-years. 
 <br><br>
 Note that lower magnitude is brighter."
-date: 2022-01-02 16:02:22 -0800
+date: 2022-01-04 16:02:22 -0800
 ---
 
 <html>
